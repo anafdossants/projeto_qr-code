@@ -1,12 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
 <!-- CABEÇALHO -->
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-    width="90px"
-    alt="Logo DIO"
-  />
-
 Projeto QR-code
 ###Desenvolvida em Node.js para criação de QR Codes aplicados ao comércio digital
 
