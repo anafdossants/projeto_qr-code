@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
 <!-- CABEÇALHO -->
 <div align="center">
   <img 
@@ -6,9 +7,8 @@
     alt="Logo DIO"
   />
 
-# 🛒 QR Code Utility para Loja Virtual
-
-### Ferramenta desenvolvida em Node.js para criação de QR Codes aplicados ao comércio digital
+Projeto QR-code
+###Desenvolvida em Node.js para criação de QR Codes aplicados ao comércio digital
 
 </div>
 
