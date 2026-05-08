@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
 <!-- CABEÇALHO -->
-Projeto QR-code
+<center><h1> Projeto QR-code </h1></center>
 ###Desenvolvida em Node.js para criação de QR Codes aplicados ao comércio digital
 
 </div>
