@@ -28,4 +28,4 @@ Durante o desenvolvimento serão explorados temas como:
 - Gerenciamento de dependências
 - Estruturação de aplicações backend
 
-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
