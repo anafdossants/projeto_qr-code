@@ -3,7 +3,7 @@
 <div align="center">
   
 <h1>QR-code </h1>
-Desenvolvido em Node.js para criação de QR Codes aplicados ao comércio digital
+Projeto desenvolvido em Node.js para soluções aplicadas ao comércio digital
 </div>
 
 <h2>🟣 Visão Geral do Projeto</h2>
